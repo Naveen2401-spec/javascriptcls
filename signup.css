@@ -1,0 +1,107 @@
+.col-7{
+    background-color: #4284F3;
+    height: 713px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration-color: white;
+}
+.col-5{
+    display: flex;
+    flex-direction: column;
+    height: 713px;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-cls{
+    padding-right: 345px;
+}
+
+.text-signup{
+    padding-right: 207px;
+    font-size: 0.8rem;
+    padding-bottom: 25px;
+}
+
+.fullname{
+    display: flex;
+    gap: 80px;
+}
+
+.fst-name{
+    width: 187px;
+}
+
+.lst-name{
+    width: 187px;
+    height: 7vh;
+}
+
+.num-mail{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    padding-top: 5px;
+}
+
+.num-cls{
+    width: 187px;
+    height: 7hv;
+}
+
+.mail-cls{
+    width: 187px;
+    height: 8hv;
+}
+
+.pass{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    gap: 80px;
+}
+
+.hospital-name{
+    display: flex;
+    padding-top: 5px;
+}
+
+.hospital-cls{
+    width: 456px;
+}
+
+.text-num{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    gap: 80px;
+}
+
+.state-cls{
+    width: 187px;
+}
+
+.zipcode-cls{
+    width: 187px;
+}
+
+.check-cls{
+    padding-right: 150px;
+}
+
+.submit-button-cls{
+    display: flex;
+    gap: 30px;
+    padding-top: 5px;
+}
+
+.sign-up-cls{
+    width: 105px;
+    background-color: #4284F3;
+}
+
+.signin-cls{
+    width: 105px;
+}
